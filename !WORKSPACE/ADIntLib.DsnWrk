@@ -1,0 +1,76 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Nuvoton\Nuvoton Microprocessor Cortex-M0\Nuvoton Microprocessor Cortex-M0.LibPkg
+[Project2]
+ProjectPath=Nsiway\Power Amplifiers\Nsiway Power Amplifiers.LibPkg
+[Project3]
+ProjectPath=Misc\Misc Connector\Misc Connector.LibPkg
+[Project4]
+ProjectPath=EverLight\Infrared Remote Control Receiver Module\EverLight Infrared Remote Control Receiver Module.LibPkg
+[Project5]
+ProjectPath=Ai-Thinker\ESP8266\Ai-Thinker ESP8266 Series.LibPkg
+[Project6]
+ProjectPath=Alpha&Omega\MOSFETs\Alpha&Omega MOSFETs.LibPkg
+[Project7]
+ProjectPath=Fairchild Semiconductor\MOSFETs\Fairchild MOSFETs.LibPkg
+[Project8]
+ProjectPath=Vishay Siliconix\Vishay Siliconix Discrete MOSFET\Vishay Siliconix Discrete MOSFET.LIBPKG
+[Project9]
+ProjectPath=Micro Commercial Components\Micro Commercial Components Transistors\Micro Commercial Components Transistors.LibPkg
+[Project10]
+ProjectPath=Rohm Semiconductor\Sensors&MEMS\Rohm Semiconductor Sensors&MEMS.LibPkg
+[Project11]
+ProjectPath=Soberton Inc\Microphones\Soberton Inc Microphones.LibPkg
+[Project12]
+ProjectPath=Diodes Incorporated\Diodes Incorporated Single LDOs\Diodes Incorporated Single LDOs.LibPkg
+[Project13]
+ProjectPath=Torex Semiconductor\Voltage Regulators\Torex Semiconductor Voltage Regulators.LibPkg
+[Project14]
+ProjectPath=Johanson Technology\RF Antennas\Johanson Technology RF Antennas.LibPkg
+[Project15]
+ProjectPath=Johanson Technology\RF Baluns\Johanson Technology RF Baluns.LibPkg
+[Project16]
+ProjectPath=Diodes Incorporated\Diodes Incorporated Diodes\Diodes Incorporated Diodes.LibPkg
+[Project17]
+ProjectPath=Misc\Misc PCB Antenna\Misc PCB Antenna.LibPkg
+[Project18]
+ProjectPath=Misc\Misc LED\Misc LED.LibPkg
+[Project19]
+ProjectPath=E-Switch\Tactile\E-Swtich Tactile.LibPkg
+[Project20]
+ProjectPath=TE Connectivity\Tactile Switches\TE Tactile Switches.LibPkg
+[Project21]
+ProjectPath=EPSON\Crystal Unit\EPSON Crystal Unit.LibPkg
+[Project22]
+ProjectPath=ON Semiconductor\ON Semi Small Signal Switching Diodes\ON Semi Small Signal Switching Diodes.LibPkg
+[Project23]
+ProjectPath=Fairchild Semiconductor\Small Signal Switching Diodes\Fairchild Small Signal Switching Diodes.LibPkg
+[Project24]
+ProjectPath=KingBright\1-Digit 7-Segment Through-Hole LED Display\KingBright 1-Digit 7-Segment Through-Hole LED Display.LibPkg
+[Project25]
+ProjectPath=EverLight\Photo Transistor\EverLight Photo Transistor.LibPkg
+[Project26]
+ProjectPath=Wurth Electronics Inc\Top LED\Wurth Electronics Inc Top LED.LibPkg
+[Project27]
+ProjectPath=Rohm Semiconductor\Reflective Type Photosensors\Rohm Semiconductor Reflective Type Photosensors.LibPkg
+[Project28]
+ProjectPath=SparkFun Electronics\Biometrics\SparkFun Electronics Biometrics.LibPkg
+[Project29]
+ProjectPath=EverLight\Infrared Emitter\EverLight Infrared Emitter.LibPkg
+[Project30]
+ProjectPath=Misc\Misc PCB Pattern\Misc PCB Pattern.LibPkg
+[Project31]
+ProjectPath=Texas Instruments\SimpleLink BLE MCUs\TI SimpleLink BLE MCUs.LibPkg
+[Project32]
+ProjectPath=AppoTech\Bluetooth SoC\AppoTech Bluetooth SoC.LibPkg
+[Project33]
+ProjectPath=Qualcomm\Bluetooth Products\Qualcomm Bluetooth Products.LibPkg
+[Project34]
+ProjectPath=Texas Instruments\TI Microcontroller 32-Bit ARM\TI Microcontroller 32-Bit ARM.LibPkg
+[Project35]
+ProjectPath=STC Micro\STC Micro 15 Series\STC Micro 15 Series.LibPkg
+[Project36]
+ProjectPath=PUI Audio Inc\Transducers\PUI Audio Transducers.LibPkg
+[Project37]
+ProjectPath=Panasonic\Aluminum Electrolytic Capacitors (Surface Mount Type)\Panasonic Aluminum Electrolytic Capacitors (Surface Mount Type).LibPkg
