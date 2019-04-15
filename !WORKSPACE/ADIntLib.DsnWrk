@@ -74,3 +74,5 @@ ProjectPath=STC Micro\STC Micro 15 Series\STC Micro 15 Series.LibPkg
 ProjectPath=PUI Audio Inc\Transducers\PUI Audio Transducers.LibPkg
 [Project37]
 ProjectPath=Panasonic\Aluminum Electrolytic Capacitors (Surface Mount Type)\Panasonic Aluminum Electrolytic Capacitors (Surface Mount Type).LibPkg
+[Project38]
+ProjectPath=STMicroelectronics\STMicroelectronics Power Management High PSRR LDO Regulators\STMicroelectronics Power Management High PSRR LDO Regulators.LibPkg
