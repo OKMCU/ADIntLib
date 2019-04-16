@@ -76,3 +76,9 @@ ProjectPath=PUI Audio Inc\Transducers\PUI Audio Transducers.LibPkg
 ProjectPath=Panasonic\Aluminum Electrolytic Capacitors (Surface Mount Type)\Panasonic Aluminum Electrolytic Capacitors (Surface Mount Type).LibPkg
 [Project38]
 ProjectPath=STMicroelectronics\STMicroelectronics Power Management High PSRR LDO Regulators\STMicroelectronics Power Management High PSRR LDO Regulators.LibPkg
+[Project39]
+ProjectPath=Misc\Misc Chip Component\Misc Chip Component.LibPkg
+[Project40]
+ProjectPath=IQD Frequency Product\IQD Quartz Crystals 12SMX\IQD Quartz Crystals 12SMX.LibPkg
+[Project41]
+ProjectPath=STMicroelectronics\STMicroelectronics Memory Standard SPI EEPROM\STMicroelectronics Memory Standard SPI EEPROM.LibPkg
