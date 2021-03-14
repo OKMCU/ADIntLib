@@ -84,3 +84,7 @@ ProjectPath=IQD Frequency Product\IQD Quartz Crystals 12SMX\IQD Quartz Crystals 
 ProjectPath=STMicroelectronics\STMicroelectronics Memory Standard SPI EEPROM\STMicroelectronics Memory Standard SPI EEPROM.LibPkg
 [Project42]
 ProjectPath=STMicroelectronics\STMicroelectronics Diode Power Schottky Low VF\STMicroelectronics Diode Power Schottky Low VF.LibPkg
+[Project43]
+ProjectPath=STMicroelectronics\STMicroelectronics STM8S\STMicroelectronics STM8S.LibPkg
+[Project44]
+ProjectPath=STMicroelectronics\STMicroelectronics STM8L\STMicroelectronics STM8L.LibPkg
